@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ibettendorf/Documents/Software_Projects/Cpp/x86_Projects/__EXAMPLE_PROJECTS/__POINTER_EXAMPLES_PROJECT/build",
+  "command": "/usr/bin/c++  -I/home/ibettendorf/Documents/Software_Projects/Cpp/x86_Projects/__EXAMPLE_PROJECTS/__POINTER_EXAMPLES_PROJECT/include/. -I/home/ibettendorf/Documents/Software_Projects/Cpp/x86_Projects/__EXAMPLE_PROJECTS/__POINTER_EXAMPLES_PROJECT/libs/Return_Function_Pointer_Example_Library/include/. -g -std=gnu++11 -o CMakeFiles/Pointer_Examples_Project.dir/src/main.cpp.o -c /home/ibettendorf/Documents/Software_Projects/Cpp/x86_Projects/__EXAMPLE_PROJECTS/__POINTER_EXAMPLES_PROJECT/src/main.cpp",
+  "file": "/home/ibettendorf/Documents/Software_Projects/Cpp/x86_Projects/__EXAMPLE_PROJECTS/__POINTER_EXAMPLES_PROJECT/src/main.cpp"
+},
+{
+  "directory": "/home/ibettendorf/Documents/Software_Projects/Cpp/x86_Projects/__EXAMPLE_PROJECTS/__POINTER_EXAMPLES_PROJECT/build",
+  "command": "/usr/bin/cc  -I/home/ibettendorf/Documents/Software_Projects/Cpp/x86_Projects/__EXAMPLE_PROJECTS/__POINTER_EXAMPLES_PROJECT/include/. -I/home/ibettendorf/Documents/Software_Projects/Cpp/x86_Projects/__EXAMPLE_PROJECTS/__POINTER_EXAMPLES_PROJECT/libs/Return_Function_Pointer_Example_Library/include/. -g -std=gnu99 -o CMakeFiles/Pointer_Examples_Project.dir/libs/Return_Function_Pointer_Example_Library/src/return_function_pointer_example.c.o -c /home/ibettendorf/Documents/Software_Projects/Cpp/x86_Projects/__EXAMPLE_PROJECTS/__POINTER_EXAMPLES_PROJECT/libs/Return_Function_Pointer_Example_Library/src/return_function_pointer_example.c",
+  "file": "/home/ibettendorf/Documents/Software_Projects/Cpp/x86_Projects/__EXAMPLE_PROJECTS/__POINTER_EXAMPLES_PROJECT/libs/Return_Function_Pointer_Example_Library/src/return_function_pointer_example.c"
+}
+]

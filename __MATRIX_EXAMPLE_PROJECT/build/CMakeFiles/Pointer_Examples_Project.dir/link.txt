@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Pointer_Examples_Project.dir/src/main.cpp.o CMakeFiles/Pointer_Examples_Project.dir/libs/Return_Function_Pointer_Example_Library/src/return_function_pointer_example.c.o -o ../bin/Debug/Pointer_Examples_Project 

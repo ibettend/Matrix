@@ -1,0 +1,8 @@
+#ifndef CONFIGURATION_H
+#define CONFIGURATION_H
+
+#define VERBOSE_NOTES_OS
+#define VERBOSE_ERROR_OS
+
+
+#endif
